@@ -1,0 +1,7 @@
+opencv-python
+pyautogui
+smtplib
+ssl
+email
+datetime
+random
