@@ -2,6 +2,9 @@
 
 ## 🔍 Overview
 This project continuously monitors for unauthorized camera access. If a camera is detected, it captures the intruder's photo, takes a screenshot of the screen, and sends an email alert with the evidence.
+## Collaborators
+
+- [Yeshwanth Thotakura](https://github.com/yesh00008)
 
 ## 🚀 Features
 - Detects active cameras
